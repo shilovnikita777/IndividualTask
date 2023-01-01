@@ -1,0 +1,5 @@
+﻿  catalog.c
+B:\Projects\Visual Studio Projects\ProgrammingC++\IZ\IndividualTask\IndividualTask\catalog.c(32,40): warning C4133: функция: несовместимые типы - из "const char *" в "const wchar_t *"
+B:\Projects\Visual Studio Projects\ProgrammingC++\IZ\IndividualTask\IndividualTask\catalog.c(32,53): warning C4133: функция: несовместимые типы - из "const char *" в "const wchar_t *"
+B:\Projects\Visual Studio Projects\ProgrammingC++\IZ\IndividualTask\IndividualTask\catalog.c(65): warning C4716: deinitCatalog: должна возвращать значение
+  IndividualTask.vcxproj -> B:\Projects\Visual Studio Projects\ProgrammingC++\IZ\IndividualTask\x64\Debug\IndividualTask.exe

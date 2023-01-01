@@ -1,0 +1,5 @@
+50 15 10
+3
+Python(1) 108 72 Programming in Python. Basic level
+EGE 144 72 Preparing for EGE in Informatics
+C/C++(2) 144 108 Programming in C/C++. Advanced level
